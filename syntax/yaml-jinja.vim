@@ -1,8 +1,8 @@
 " Vim syntax file
 " Language: Jinja template
 " Maintainer: Louis Royer <infos.louis.royer@gmail.com>
-" Last Change: 2023-11
-" Version: 0.1
+" Last Change: 2024-02
+" Version: 0.2
 "
 " Known Bugs:
 "   if you found a bug, please submit an issue at
